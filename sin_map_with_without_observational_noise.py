@@ -33,4 +33,4 @@ plt.xlim(0, 10000)
 plt.xlabel('$j$')
 plt.ylabel('$u_j$')
 
-plt.savefig("sin_map_with_without_observational_noise",dpi=600)
+plt.savefig("01sin_map_with_without_observational_noise",dpi=600)
