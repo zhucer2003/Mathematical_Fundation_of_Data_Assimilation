@@ -1,3 +1,3 @@
 # Mathematical_Fundation_of_Data_Assimilation
 
-![01.sin_map_with_without_observational_noise](https://github.com/QQFRaphael/Mathematical_Fundation_of_Data_Assimilation/blob/master/sin_map_with_without_observational_noise.py)
+![01.sin_map_with_without_observational_noise](https://github.com/QQFRaphael/Mathematical_Fundation_of_Data_Assimilation/blob/master/01sin_map_with_without_observational_noise.py)
