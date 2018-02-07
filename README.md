@@ -1,3 +1,5 @@
 # Mathematical_Fundation_of_Data_Assimilation
 
 ![01.sin_map_with_without_observational_noise](https://github.com/QQFRaphael/Mathematical_Fundation_of_Data_Assimilation/blob/master/01sin_map_with_without_observational_noise.py)
+
+![02.smoothing_problem_for_the_deterministic_logistic_map](https://github.com/QQFRaphael/Mathematical_Fundation_of_Data_Assimilation/blob/master/02smoothing_problem_for_the_deterministic_logistic_map.py)
